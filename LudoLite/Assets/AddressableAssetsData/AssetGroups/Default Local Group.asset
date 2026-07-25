@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 29e2c9d364691a54dbde6f7f9e81b2fc
+  m_SerializeEntries:
+  - m_GUID: 195de83e76de21e4da08ec6c07a4c347
+    m_Address: Dice/dice_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 0a941e8ea140b6444a48ea2e9ea728cc
+    m_Address: Dice/dice_5
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 4bbf6b1109794504194f6961ad45d248
+    m_Address: Dice/dice_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3e82973ae7c50914c89b24311673c988
+    m_Address: Board/blue-chip
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 526369644f393524e8d01f39180984cc
+    m_Address: Dice/dice_6
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: dd4fc485ee9fb0941a51645ce69c9bf6
+    m_Address: Dice/dice_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 02ce94488be09db49866013b4d496a22
+    m_Address: Dice/dice_4
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 158763e204f870545bb7d969d1b848ef
+    m_Address: Assets/Resources_addressables
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: e9e95eb3db19fb74dbf2a253a4893a03, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 419ddb362e5c8ac49b4d512e754daaf4, type: 2}
+    - {fileID: 11400000, guid: 9a2a92d9715aa054db34454dcb31e0b0, type: 2}
