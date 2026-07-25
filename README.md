@@ -2,6 +2,10 @@
 
 **Author:** Madasu Rakesh
 
+**Contributors:**
+- Madasu Rakesh
+- Cursor
+
 A simple UI with a Roll button to roll a virtual die and a Reset button to
 return the chip to its initial position.
 
